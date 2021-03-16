@@ -1,9 +1,9 @@
-# git-wiki-skeleton
+# Fuerza renovadora tecnológica
 
-NOTE: it's fully supported by github platform, you don't need to install anything locally
+124 y 60 (1016,72 km) 1923 Berisso, Provincia de Buenos Aires, Argentina
 
-This is a [skeleton](skeleton) repository that can be used as a template to bootstrap your wiki using "[remote_theme](https://github.com/benbalter/jekyll-remote-theme)" config
+Bienvenidos a la wiki oficial del centro de estudiantes.
 
-For documentation, installation guide and demo of git-wiki-theme visit [THIS PAGE](http://drassil.github.io/git-wiki/)
+El objetivo de la misma, es clasificar la información.
 
-Version: 1.0.7
+De modo tal, que la misma pueda ser fácilmente compartida.
